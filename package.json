@@ -11,6 +11,10 @@
     "bugs": {
         "url": "https://github.com/LaurentTreguier/vscode-monokai-grey/issues"
     },
+    "galleryBanner": {
+        "theme": "dark"
+    },
+    "icon": "./images/vscode.png",
     "engines": {
         "vscode": "^1.15.0"
     },
