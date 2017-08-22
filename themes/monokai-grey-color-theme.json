@@ -324,7 +324,21 @@
         },
         // language specific tweaks
         {
-            "name": "String",
+            "name": "Template - Javascript, Typescript",
+            "scope": "meta.template.expression",
+            "settings": {
+                "foreground": "#dfdfdf"
+            }
+        },
+        {
+            "name": "Template - Javascript, Typescript",
+            "scope": "punctuation.definition.template-expression",
+            "settings": {
+                "foreground": "#9f7fff"
+            }
+        },
+        {
+            "name": "String - JSON",
             "scope": "string.quoted.double.json",
             "settings": {
                 "foreground": "#dfdfcf"
