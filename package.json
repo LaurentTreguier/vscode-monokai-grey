@@ -4,6 +4,13 @@
     "description": "A version of Monokai with a more grey background",
     "version": "0.1.0",
     "publisher": "LaurentTreguier",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LaurentTreguier/vscode-monokai-grey"
+    },
+    "bugs": {
+        "url": "https://github.com/LaurentTreguier/vscode-monokai-grey/issues"
+    },
     "engines": {
         "vscode": "^1.15.0"
     },
