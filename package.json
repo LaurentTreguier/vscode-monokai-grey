@@ -1,0 +1,26 @@
+{
+    "name": "monokai-grey",
+    "displayName": "monokai-grey",
+    "description": "A version of Monokai with a more grey background",
+    "version": "0.1.0",
+    "publisher": "LaurentTreguier",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "monokai"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Grey",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-grey-color-theme.json"
+            }
+        ]
+    }
+}
