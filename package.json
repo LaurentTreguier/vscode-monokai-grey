@@ -2,7 +2,7 @@
     "name": "monokai-grey",
     "displayName": "monokai-grey",
     "description": "A version of Monokai with a more grey background",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "LaurentTreguier",
     "repository": {
         "type": "git",
