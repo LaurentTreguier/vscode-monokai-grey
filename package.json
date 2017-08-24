@@ -12,7 +12,8 @@
         "url": "https://github.com/LaurentTreguier/vscode-monokai-grey/issues"
     },
     "galleryBanner": {
-        "theme": "dark"
+        "theme": "dark",
+        "color": "#252729"
     },
     "icon": "images/vscode.png",
     "engines": {
