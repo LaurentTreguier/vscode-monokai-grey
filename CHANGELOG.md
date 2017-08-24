@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.2.1
+- Changed the displayed extension name to "Monokai Grey"
+- Changed the marketplace banner background color to make the text readable
+
 ## 0.2.0
 - Added extension icon
 - Added support for Javascript and Typescript string templates
