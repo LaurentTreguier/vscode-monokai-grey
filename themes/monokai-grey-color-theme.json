@@ -17,7 +17,7 @@
         "diffEditor.removedTextBackground": "#ff3f3f1f",
         "dropdown.background": "#3f3f3f",
         "editor.background": "#252729",
-        "editor.findMatchBackground": "#7f7f7f",
+        "editor.findMatchBackground": "#7f7f7f7f",
         "editor.findMatchHighlightBackground": "#7f7f7f5f",
         "editor.findRangeHighlightBackground": "#7f7f7f5f",
         "editor.foreground": "#dfdfdf",
@@ -100,7 +100,7 @@
         "statusBarItem.activeBackground": "#7f7f7f7f",
         "statusBarItem.hoverBackground": "#7f7f7f3f",
         "statusBarItem.prominentBackground": "#2f2f2f",
-        "statusBarItem.prominentHoverBackground": "#7f7f7f3f",
+        "statusBarItem.prominentHoverBackground": "#7f7f7f5f",
         "tab.activeBackground": "#2d2f31",
         "tab.inactiveBackground": "#252729",
         "terminal.ansiBlack": "#000000",
@@ -132,7 +132,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#7f7f7f"
+                "foreground": "#7f8f9f"
             }
         },
         {
