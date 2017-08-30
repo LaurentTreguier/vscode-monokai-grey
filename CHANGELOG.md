@@ -1,5 +1,8 @@
 # Change Log
 
+### 0.2.2
+- Changed comment color and find selection color to fix text foudn in comments having the same foreground and background color
+
 ### 0.2.1
 - Changed the displayed extension name to "Monokai Grey"
 - Changed the marketplace banner background color to make the text readable
