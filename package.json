@@ -34,5 +34,8 @@
                 "path": "./themes/monokai-grey-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^1.30.0"
     }
 }
