@@ -2,6 +2,7 @@
     "name": "monokai-grey",
     "displayName": "Monokai Grey",
     "description": "A version of Monokai with a more grey background",
+    "license": "MIT",
     "version": "0.2.2",
     "publisher": "LaurentTreguier",
     "repository": {
@@ -17,7 +18,7 @@
     },
     "icon": "images/vscode.png",
     "engines": {
-        "vscode": "^1.15.0"
+        "vscode": "^1.18.0"
     },
     "categories": [
         "Themes"
@@ -36,6 +37,6 @@
         ]
     },
     "devDependencies": {
-        "vsce": "^1.30.0"
+        "vsce": "^1.32.0"
     }
 }
