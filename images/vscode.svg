@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" version="1.1">
-    <polygon points="30,65 0,80 0,240 30,255" fill="#9f7fff"/>
-    <polygon points="30,65 320,280 240,320 0,80" fill="#9fdf2f"/>
-    <polygon points="30,255 320,40 240,0 0,240" fill="#ff1f7f"/>
-    <polygon points="240,0 320,40 320,280 240,320" fill="#5fdfff"/>
+    <polygon fill="#9fdf2f" points="30,65 320,280 240,320 0,80"/>
+    <polygon fill="#ff1f7f" points="30,255 320,40 240,0 0,240"/>
+    <polygon fill="#5fdfff" points="240,0 320,40 320,280 240,320"/>
 </svg>
