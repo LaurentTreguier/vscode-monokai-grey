@@ -3,7 +3,7 @@
     "displayName": "Monokai Grey",
     "description": "A version of Monokai with a more grey background",
     "license": "MIT",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "publisher": "LaurentTreguier",
     "repository": {
         "type": "git",
