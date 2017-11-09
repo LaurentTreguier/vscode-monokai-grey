@@ -1,5 +1,8 @@
 # Change Log
 
+### 0.2.3
+- Added colors for git decorations
+
 ### 0.2.2
 - Changed comment color and find selection color to fix text foudn in comments having the same foreground and background color
 
