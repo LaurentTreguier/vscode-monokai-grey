@@ -18,7 +18,7 @@
     },
     "icon": "images/vscode.png",
     "engines": {
-        "vscode": "^1.18.0"
+        "vscode": "^1.21.0"
     },
     "categories": [
         "Themes"
@@ -37,6 +37,6 @@
         ]
     },
     "devDependencies": {
-        "vsce": "^1.32.0"
+        "vsce": "^1.37.5"
     }
 }

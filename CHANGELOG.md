@@ -1,5 +1,8 @@
 # Change Log
 
+### 0.2.4
+- Added colors for new notifications
+
 ### 0.2.3
 - Added colors for git decorations
 
