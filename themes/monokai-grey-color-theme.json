@@ -128,12 +128,6 @@
     },
     "tokenColors": [
         {
-            "settings": {
-                "foreground": "#dfdfdf",
-                "background": "#252729"
-            }
-        },
-        {
             "name": "Comment",
             "scope": "comment",
             "settings": {
@@ -181,8 +175,7 @@
             "scope": [
                 "entity.name.class",
                 "entity.name.struct",
-                "entity.name.type.class",
-                "entity.name.type.struct"
+                "entity.name.type"
             ],
             "settings": {
                 "fontStyle": "underline"
